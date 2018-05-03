@@ -1,0 +1,146 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HashMapEx",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HashMapEx",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HashMapeg",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HashMapeg",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JDBCSingletonDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "JDBCSingletonDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LambdaDemoOops",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LambdaDemoOops",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Linkedlist",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Linkedlist",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ListExample",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ListExample",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ListtoSet",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ListtoSet",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StreamAllMatch",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StreamAllMatch",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StreamConcat",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StreamConcat",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Streamcount",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Streamcount",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Streameg",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Streameg",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Streamfindfirst",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Streamfindfirst",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCollection11",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TestCollection11",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
